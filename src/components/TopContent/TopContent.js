@@ -9,9 +9,9 @@ const TopContent = () => {
         <h1>Mr.Yokeshwar Raj</h1>
         <p>A Professional Full Stack Developer</p>
         <a
-          href="https://doc-0c-3s-docs.googleusercontent.com/docs/securesc/7f30l5866mkqacm2msppsn2qqeq63tlk/3s4evdq5cfvm7guonk5r5fd727vl6hd0/1631612625000/08124396825101469741/08124396825101469741/1umT1wjDQssoE2HLI0WFoq6YmE6iokFN8?e=download&authuser=0&nonce=akc8mn956v4ck&user=08124396825101469741&hash=ao3avqsgndr19be8rdqstr49bh870edr"
+          href="https://doc-0c-3s-docs.googleusercontent.com/docs/securesc/7f30l5866mkqacm2msppsn2qqeq63tlk/8tn1nr9m30742q82c1hr362i7bkmmaeb/1631616450000/08124396825101469741/08124396825101469741/1gYBEShJDonfpYbdWzO05PBIWFR1TyOYu?e=download&authuser=0"
           target="_blank"
-         
+          rel="noopener noreferrer"
         >
           <button className="topContent__download">DOWNLOAD CV</button>
         </a>

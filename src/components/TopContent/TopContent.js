@@ -9,11 +9,11 @@ const TopContent = () => {
         <h1>Mr.Yokeshwar Raj</h1>
         <p>A Professional Full Stack Developer</p>
         <a
-          href="https://doc-0c-3s-docs.googleusercontent.com/docs/securesc/7f30l5866mkqacm2msppsn2qqeq63tlk/8tn1nr9m30742q82c1hr362i7bkmmaeb/1631616450000/08124396825101469741/08124396825101469741/1gYBEShJDonfpYbdWzO05PBIWFR1TyOYu?e=download&authuser=0"
+          href="https://docs.google.com/document/d/1QQyVSfpvdiZb9uFJq8bHtmmABbSqkur2/edit"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <button className="topContent__download">DOWNLOAD CV</button>
+          <button className="topContent__download">View CV</button>
         </a>
         <Link to="projects" smooth={true} duration={500}>
           <button className="topContent__work">My work</button>

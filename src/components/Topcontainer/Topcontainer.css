@@ -1,0 +1,8 @@
+.topContainer {
+  background: url(../../assests/IMG-20160310-WA0009.jpg);
+  height: 100vh;
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 0 0 0 2000px rgba(0, 0, 0, 0.5);
+}
